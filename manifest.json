@@ -1,0 +1,14 @@
+{
+  "name": "Tayne",
+  "version": "0.1",
+  "manifest_version": 3,
+  "description": "Tayne can't wait to entertain you.",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "http://api.flickr.com/"
+  ]
+}
+
